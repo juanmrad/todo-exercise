@@ -14,7 +14,7 @@ Get a specific todo item with that id
 
 ### POST /api/todos
 
-Create a new todo list with the passed in todo list. ( hint. make sure that the ids are restarted to to avoid having issues of multiple items having the same id)
+Create a new todo list item with the passed in todo item. ( hint. make sure that the ids are formatted appropriately to to avoid having issues of multiple items having the same id)
 
 ### PUT /api/todos/:id
 
